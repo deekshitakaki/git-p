@@ -5,5 +5,4 @@ welcome
 git and github 
 
 day 1
-deek k
-
+deek
