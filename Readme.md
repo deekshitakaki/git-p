@@ -1,14 +1,1 @@
-hey trynna figure out git and github
-
-welcome 
-
-git and github 
-
-day 1
-deek
-
-
-this is from branch1
-
-
-this is from branch2.
+day 2 of github and trying to know how it works
